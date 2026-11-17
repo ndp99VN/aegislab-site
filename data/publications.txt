@@ -1,0 +1,12 @@
+# DANH SÁCH CÔNG BỐ KHOA HỌC – AEGIS Lab
+# ------------------------------------------------------------
+# Cách dùng:
+#  - Mỗi dòng là MỘT bài báo. Website tự đánh số theo thứ tự từ trên xuống.
+#  - Dòng bắt đầu bằng dấu # là ghi chú, không hiện lên web.
+#  - Muốn in nghiêng (ví dụ tên tạp chí) thì đặt giữa hai dấu *, ví dụ: *Journal of Hydrology*
+#  - Dòng trống được bỏ qua.
+#
+# Ví dụ (bỏ dấu # ở đầu dòng để hiện lên web):
+# Tran, D. T., Nguyen, D. P. (2026). Tên bài báo. *Tên tạp chí*, 12(3), 45–67. https://doi.org/10.xxxx/xxxxx
+# ------------------------------------------------------------
+
